@@ -1,0 +1,14 @@
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\bin\Debug\net8.0\gövningar.exe
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\bin\Debug\net8.0\gövningar.deps.json
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\bin\Debug\net8.0\gövningar.runtimeconfig.json
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\bin\Debug\net8.0\gövningar.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\bin\Debug\net8.0\gövningar.pdb
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\obj\Debug\net8.0\gövningar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\obj\Debug\net8.0\gövningar.AssemblyInfoInputs.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\obj\Debug\net8.0\gövningar.AssemblyInfo.cs
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\obj\Debug\net8.0\gövningar.csproj.CoreCompileInputs.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\obj\Debug\net8.0\gövningar.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\obj\Debug\net8.0\refint\gövningar.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\obj\Debug\net8.0\gövningar.pdb
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\obj\Debug\net8.0\gövningar.genruntimeconfig.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\gövningar\obj\Debug\net8.0\ref\gövningar.dll

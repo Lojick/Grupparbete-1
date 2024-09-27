@@ -1,0 +1,14 @@
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\bin\Debug\net8.0\gruppuppgift1.exe
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\bin\Debug\net8.0\gruppuppgift1.deps.json
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\bin\Debug\net8.0\gruppuppgift1.runtimeconfig.json
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\bin\Debug\net8.0\gruppuppgift1.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\bin\Debug\net8.0\gruppuppgift1.pdb
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\obj\Debug\net8.0\gruppuppgift1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\obj\Debug\net8.0\gruppuppgift1.AssemblyInfoInputs.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\obj\Debug\net8.0\gruppuppgift1.AssemblyInfo.cs
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\obj\Debug\net8.0\gruppuppgift1.csproj.CoreCompileInputs.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\obj\Debug\net8.0\gruppuppgift1.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\obj\Debug\net8.0\refint\gruppuppgift1.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\obj\Debug\net8.0\gruppuppgift1.pdb
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\obj\Debug\net8.0\gruppuppgift1.genruntimeconfig.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\gruppuppgift1\obj\Debug\net8.0\ref\gruppuppgift1.dll

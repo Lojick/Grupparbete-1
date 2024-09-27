@@ -1,0 +1,14 @@
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\bin\Debug\net8.0\lektion1.exe
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\bin\Debug\net8.0\lektion1.deps.json
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\bin\Debug\net8.0\lektion1.runtimeconfig.json
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\bin\Debug\net8.0\lektion1.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\bin\Debug\net8.0\lektion1.pdb
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\obj\Debug\net8.0\lektion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\obj\Debug\net8.0\lektion1.AssemblyInfoInputs.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\obj\Debug\net8.0\lektion1.AssemblyInfo.cs
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\obj\Debug\net8.0\lektion1.csproj.CoreCompileInputs.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\obj\Debug\net8.0\lektion1.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\obj\Debug\net8.0\refint\lektion1.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\obj\Debug\net8.0\lektion1.pdb
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\obj\Debug\net8.0\lektion1.genruntimeconfig.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\obj\Debug\net8.0\ref\lektion1.dll
