@@ -1,0 +1,14 @@
+c:\Users\Lorik\Desktop\C#\Övningar\bin\Debug\net8.0\Övningar.exe
+C:\Users\Lorik\Desktop\C#\Övningar\bin\Debug\net8.0\Övningar.deps.json
+C:\Users\Lorik\Desktop\C#\Övningar\bin\Debug\net8.0\Övningar.runtimeconfig.json
+c:\Users\Lorik\Desktop\C#\Övningar\bin\Debug\net8.0\Övningar.dll
+c:\Users\Lorik\Desktop\C#\Övningar\bin\Debug\net8.0\Övningar.pdb
+c:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\Övningar.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\Övningar.AssemblyInfoInputs.cache
+c:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\Övningar.AssemblyInfo.cs
+c:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\Övningar.csproj.CoreCompileInputs.cache
+c:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\Övningar.dll
+c:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\refint\Övningar.dll
+c:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\Övningar.pdb
+C:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\Övningar.genruntimeconfig.cache
+C:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\ref\Övningar.dll

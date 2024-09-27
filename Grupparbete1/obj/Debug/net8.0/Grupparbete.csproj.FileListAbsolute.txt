@@ -1,0 +1,14 @@
+C:\Users\Lorik\Desktop\C#\Grupparbete1\bin\Debug\net8.0\Grupparbete.exe
+C:\Users\Lorik\Desktop\C#\Grupparbete1\bin\Debug\net8.0\Grupparbete.deps.json
+C:\Users\Lorik\Desktop\C#\Grupparbete1\bin\Debug\net8.0\Grupparbete.runtimeconfig.json
+C:\Users\Lorik\Desktop\C#\Grupparbete1\bin\Debug\net8.0\Grupparbete.dll
+C:\Users\Lorik\Desktop\C#\Grupparbete1\bin\Debug\net8.0\Grupparbete.pdb
+C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\Grupparbete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\Grupparbete.AssemblyInfoInputs.cache
+C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\Grupparbete.AssemblyInfo.cs
+C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\Grupparbete.csproj.CoreCompileInputs.cache
+C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\Grupparbete.dll
+C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\refint\Grupparbete.dll
+C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\Grupparbete.pdb
+C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\Grupparbete.genruntimeconfig.cache
+C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\ref\Grupparbete.dll
