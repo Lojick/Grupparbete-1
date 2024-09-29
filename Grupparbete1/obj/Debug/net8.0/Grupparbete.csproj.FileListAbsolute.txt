@@ -12,3 +12,4 @@ C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\refint\Grupparbete.dll
 C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\Grupparbete.pdb
 C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\Grupparbete.genruntimeconfig.cache
 C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\ref\Grupparbete.dll
+C:\Users\Lorik\Desktop\C#\Grupparbete1\obj\Debug\net8.0\Grupparbete.sourcelink.json

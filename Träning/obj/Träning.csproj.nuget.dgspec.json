@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lorik\\Desktop\\C#\\träning\\Träning.csproj": {}
+    "C:\\Users\\Lorik\\Desktop\\C#\\Träning\\Träning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lorik\\Desktop\\C#\\träning\\Träning.csproj": {
+    "C:\\Users\\Lorik\\Desktop\\C#\\Träning\\Träning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lorik\\Desktop\\C#\\träning\\Träning.csproj",
+        "projectUniqueName": "C:\\Users\\Lorik\\Desktop\\C#\\Träning\\Träning.csproj",
         "projectName": "Träning",
-        "projectPath": "C:\\Users\\Lorik\\Desktop\\C#\\träning\\Träning.csproj",
+        "projectPath": "C:\\Users\\Lorik\\Desktop\\C#\\Träning\\Träning.csproj",
         "packagesPath": "C:\\Users\\Lorik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lorik\\Desktop\\C#\\träning\\obj\\",
+        "outputPath": "C:\\Users\\Lorik\\Desktop\\C#\\Träning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lorik\\AppData\\Roaming\\NuGet\\NuGet.Config",

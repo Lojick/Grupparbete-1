@@ -12,3 +12,4 @@ c:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\refint\Övningar.dll
 c:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\Övningar.pdb
 C:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\Övningar.genruntimeconfig.cache
 C:\Users\Lorik\Desktop\C#\Övningar\obj\Debug\net8.0\ref\Övningar.dll
+C:\Users\Lorik\Desktop\C#\övningar\obj\Debug\net8.0\Övningar.sourcelink.json

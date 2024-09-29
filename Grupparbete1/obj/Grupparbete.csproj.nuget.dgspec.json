@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lorik\\Desktop\\C#\\Grupparbete1\\Grupparbete.csproj": {}
+    "C:\\Users\\Lorik\\Desktop\\C#\\grupparbete1\\Grupparbete.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lorik\\Desktop\\C#\\Grupparbete1\\Grupparbete.csproj": {
+    "C:\\Users\\Lorik\\Desktop\\C#\\grupparbete1\\Grupparbete.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lorik\\Desktop\\C#\\Grupparbete1\\Grupparbete.csproj",
+        "projectUniqueName": "C:\\Users\\Lorik\\Desktop\\C#\\grupparbete1\\Grupparbete.csproj",
         "projectName": "Grupparbete",
-        "projectPath": "C:\\Users\\Lorik\\Desktop\\C#\\Grupparbete1\\Grupparbete.csproj",
+        "projectPath": "C:\\Users\\Lorik\\Desktop\\C#\\grupparbete1\\Grupparbete.csproj",
         "packagesPath": "C:\\Users\\Lorik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lorik\\Desktop\\C#\\Grupparbete1\\obj\\",
+        "outputPath": "C:\\Users\\Lorik\\Desktop\\C#\\grupparbete1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lorik\\AppData\\Roaming\\NuGet\\NuGet.Config",
