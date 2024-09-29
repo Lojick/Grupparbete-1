@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Träning/1.0.0": {
+      "träning/1.0.0": {
         "runtime": {
-          "Träning.dll": {}
+          "träning.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Träning/1.0.0": {
+    "träning/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
