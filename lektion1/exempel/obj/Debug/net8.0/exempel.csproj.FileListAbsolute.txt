@@ -1,0 +1,14 @@
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\bin\Debug\net8.0\exempel.exe
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\bin\Debug\net8.0\exempel.deps.json
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\bin\Debug\net8.0\exempel.runtimeconfig.json
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\bin\Debug\net8.0\exempel.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\bin\Debug\net8.0\exempel.pdb
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\obj\Debug\net8.0\exempel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\obj\Debug\net8.0\exempel.AssemblyInfoInputs.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\obj\Debug\net8.0\exempel.AssemblyInfo.cs
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\obj\Debug\net8.0\exempel.csproj.CoreCompileInputs.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\obj\Debug\net8.0\exempel.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\obj\Debug\net8.0\refint\exempel.dll
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\obj\Debug\net8.0\exempel.pdb
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\obj\Debug\net8.0\exempel.genruntimeconfig.cache
+C:\Users\lorik\OneDrive\Skrivbord\C#\lektion1\exempel\obj\Debug\net8.0\ref\exempel.dll
