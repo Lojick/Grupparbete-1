@@ -24,7 +24,7 @@ class Program
     
     }
 }
-//Enklaste alternativet, men då kommer alla "jag" och "du" skrivas ut i små bokstäver.
+// Enklaste alternativet, men då kommer alla "jag" och "du" skrivas ut i små bokstäver.
 //    return input.Replace("jag", "temp", StringComparison.OrdinalIgnoreCase)
 //                     .Replace("du", "jag", StringComparison.OrdinalIgnoreCase)
 //                     .Replace("temp", "du", StringComparison.OrdinalIgnoreCase);

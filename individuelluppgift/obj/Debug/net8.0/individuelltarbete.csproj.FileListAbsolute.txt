@@ -1,0 +1,15 @@
+C:\Users\Lorik\Desktop\C#\individuelltarbete\bin\Debug\net8.0\individuelltarbete.exe
+C:\Users\Lorik\Desktop\C#\individuelltarbete\bin\Debug\net8.0\individuelltarbete.deps.json
+C:\Users\Lorik\Desktop\C#\individuelltarbete\bin\Debug\net8.0\individuelltarbete.runtimeconfig.json
+C:\Users\Lorik\Desktop\C#\individuelltarbete\bin\Debug\net8.0\individuelltarbete.dll
+C:\Users\Lorik\Desktop\C#\individuelltarbete\bin\Debug\net8.0\individuelltarbete.pdb
+C:\Users\Lorik\Desktop\C#\individuelltarbete\obj\Debug\net8.0\individuelltarbete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorik\Desktop\C#\individuelltarbete\obj\Debug\net8.0\individuelltarbete.AssemblyInfoInputs.cache
+C:\Users\Lorik\Desktop\C#\individuelltarbete\obj\Debug\net8.0\individuelltarbete.AssemblyInfo.cs
+C:\Users\Lorik\Desktop\C#\individuelltarbete\obj\Debug\net8.0\individuelltarbete.csproj.CoreCompileInputs.cache
+C:\Users\Lorik\Desktop\C#\individuelltarbete\obj\Debug\net8.0\individuelltarbete.sourcelink.json
+C:\Users\Lorik\Desktop\C#\individuelltarbete\obj\Debug\net8.0\individuelltarbete.dll
+C:\Users\Lorik\Desktop\C#\individuelltarbete\obj\Debug\net8.0\refint\individuelltarbete.dll
+C:\Users\Lorik\Desktop\C#\individuelltarbete\obj\Debug\net8.0\individuelltarbete.pdb
+C:\Users\Lorik\Desktop\C#\individuelltarbete\obj\Debug\net8.0\individuelltarbete.genruntimeconfig.cache
+C:\Users\Lorik\Desktop\C#\individuelltarbete\obj\Debug\net8.0\ref\individuelltarbete.dll

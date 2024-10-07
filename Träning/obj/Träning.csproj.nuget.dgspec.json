@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lorik\\OneDrive\\Skrivbord\\C#\\träning\\träning.csproj": {}
+    "C:\\Users\\Lorik\\Desktop\\C#\\träning\\träning.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lorik\\OneDrive\\Skrivbord\\C#\\träning\\träning.csproj": {
+    "C:\\Users\\Lorik\\Desktop\\C#\\träning\\träning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lorik\\OneDrive\\Skrivbord\\C#\\träning\\träning.csproj",
+        "projectUniqueName": "C:\\Users\\Lorik\\Desktop\\C#\\träning\\träning.csproj",
         "projectName": "träning",
-        "projectPath": "C:\\Users\\lorik\\OneDrive\\Skrivbord\\C#\\träning\\träning.csproj",
-        "packagesPath": "C:\\Users\\lorik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lorik\\OneDrive\\Skrivbord\\C#\\träning\\obj\\",
+        "projectPath": "C:\\Users\\Lorik\\Desktop\\C#\\träning\\träning.csproj",
+        "packagesPath": "C:\\Users\\Lorik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lorik\\Desktop\\C#\\träning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lorik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Lorik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

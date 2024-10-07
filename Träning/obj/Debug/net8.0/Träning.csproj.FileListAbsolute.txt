@@ -12,3 +12,11 @@ C:\Users\lorik\OneDrive\Skrivbord\C#\träning\obj\Debug\net8.0\refint\träning.d
 C:\Users\lorik\OneDrive\Skrivbord\C#\träning\obj\Debug\net8.0\träning.pdb
 C:\Users\lorik\OneDrive\Skrivbord\C#\träning\obj\Debug\net8.0\träning.genruntimeconfig.cache
 C:\Users\lorik\OneDrive\Skrivbord\C#\träning\obj\Debug\net8.0\ref\träning.dll
+C:\Users\Lorik\Desktop\C#\träning\obj\Debug\net8.0\träning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorik\Desktop\C#\träning\obj\Debug\net8.0\träning.AssemblyInfoInputs.cache
+C:\Users\Lorik\Desktop\C#\träning\obj\Debug\net8.0\träning.AssemblyInfo.cs
+C:\Users\Lorik\Desktop\C#\träning\obj\Debug\net8.0\träning.csproj.CoreCompileInputs.cache
+C:\Users\Lorik\Desktop\C#\träning\obj\Debug\net8.0\träning.sourcelink.json
+C:\Users\Lorik\Desktop\C#\träning\obj\Debug\net8.0\träning.dll
+C:\Users\Lorik\Desktop\C#\träning\obj\Debug\net8.0\refint\träning.dll
+C:\Users\Lorik\Desktop\C#\träning\obj\Debug\net8.0\träning.pdb
